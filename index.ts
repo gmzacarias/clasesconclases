@@ -38,7 +38,7 @@ const unAlbum2 = {
 songs : ["dangerman","espejos","en el aire"],
 }
 const unAlbum3 = {
-    title : "los cafres",
+    title : "los cafres-25 años",
     songs: ["tus ojos", "velas y sahumerios", "bastara"],
 }
 
